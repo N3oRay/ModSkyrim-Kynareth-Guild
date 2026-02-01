@@ -1,0 +1,10 @@
+textures\actors\character\hair\HairLong.dds
+
+textures\actors\character\hair\HairLong_n.dds
+
+
+textures\AwAssets\Astra\Fatal.dds
+textures\AwAssets\Astra\Fatal_n.dds
+
+textures\AwAssets\Astra\harline01.dds
+textures\AwAssets\Astra\harline01_n.dds
